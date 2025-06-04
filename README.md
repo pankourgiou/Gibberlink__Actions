@@ -1,0 +1,2 @@
+#So the program isn't very very easy...neither very simple...here this is the Gibberlink system simulation diagram!!! we set Energy actually as Gibberlink output and this is actually no different than an Energy system simulation diagram. ![Gibberlink_system_simulation](https://github.com/user-attachments/assets/f6cd58da-0c50-41a6-bff6-719bde6881dd)
+#So you can play a bit with the letters and numbers and see outputs changing. on the Issues folder you can see the progam running some times but in Hylian/python language...have fun!
